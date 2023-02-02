@@ -13,13 +13,13 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me :
+### 👦: &nbsp;About Me :
 
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
-- 🔭 I’m working as a Software Engineer and contributing backend for building web applications(laravel,symfony,yii).
-- 🌱 Exploring Technical Content Writing.
-- ⚡ Software Design and Architecture.
+- I’m working as a Software Engineer and contributing backend for building web applications(laravel,symfony,yii).
+- Exploring Technical Content Writing.
+- Software Design and Architecture.
 
 ---
 
